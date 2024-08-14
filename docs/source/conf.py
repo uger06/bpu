@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BPU-SDK'
+copyright = '© Copyright 2023- 2024, GDIIST'
+author = 'By GDIIST Team'
 
 release = '0.1'
 version = '0.1.0'
