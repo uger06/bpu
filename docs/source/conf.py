@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'BPU-SDK'
-copyright = '© Copyright 2023- 2024, GDIIST'
+copyright = '2024, GDIIST'
 author = 'By GDIIST Team'
 
 release = '0.1'
@@ -17,6 +17,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_rtd_theme',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.napoleon'
 ]
 
 intersphinx_mapping = {
