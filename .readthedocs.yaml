@@ -9,7 +9,6 @@ python:
   # Install our python package before building the docs
   install:
     - requirements: docs/requirements.txt
-  system_packages: true
 
 sphinx:
   configuration: docs/source/conf.py
