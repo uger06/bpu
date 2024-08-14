@@ -9,7 +9,7 @@ python:
   # Install our python package before building the docs
   install:
     - requirements: docs/requirements.txt
-    - method: pip
+  system_packages: true
 
 sphinx:
   configuration: docs/source/conf.py
