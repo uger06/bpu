@@ -85,14 +85,14 @@
 ----------
 你可以用以下代码导入图片:
 
-.. image:: ../Media/Images/beautiful-image.jpg
+.. image:: ../Images/beautiful-image.jpg
    :width: 80%
    :align: center
    :alt: this is a beautiful image
 
 .. code-block:: RST
   
-    .. image:: ../Media/Images/beautiful-image.jpg
+    .. image:: ../Images/beautiful-image.jpg
         :width: 80%
         :align: center
         :alt: this is a beautiful image
